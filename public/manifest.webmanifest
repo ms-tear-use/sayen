@@ -1,15 +1,30 @@
 {
   "name": "sayen",
   "short_name": "sayen",
-  "id": "./",
-  "start_url": "./",
-  "scope": "./",
+  "id": "/sayen/",
+  "start_url": "/sayen/",
+  "scope": "/sayen/",
   "display": "standalone",
   "background_color": "#faf8f5",
   "theme_color": "#faf8f5",
   "icons": [
-    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+    {
+      "src": "/sayen/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/sayen/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/sayen/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
   ]
 }
